@@ -1,1 +1,1 @@
-this .py file is made for the roblox game word bomb so yea if you dont have python click on this
+this .py file is made for the roblox game word bomb so yea if you dont have python click on this: https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe  ( i made this at 3 am so i dont have a good readme but enjoy :) )
